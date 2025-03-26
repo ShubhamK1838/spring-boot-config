@@ -1,8 +1,6 @@
 
 
 spring:
-  application:
-    name: ProductService
   datasource:
     username: root
     password: jadoo1838
